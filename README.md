@@ -12,19 +12,16 @@ This program generates the multiplication table for any number entered by the us
 - The program will print the multiplication table for the entered number.
 
 ### Example:
-Enter a number: 5
-5 x 1 = 5 ... 5 x 10 = 50
-
-### Requirements:
-- C compiler (like GCC or Turbo C).
-
-### To run the code
 Step1:
-```c
+```
 gcc -o main main.c
 ```
 
 Step2:
-```c
+```
 .\main.exe
 ```
+![alt text](table-output.png)
+
+### Requirements:
+- C compiler (like GCC or Turbo C).
