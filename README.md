@@ -12,15 +12,16 @@ This program generates the multiplication table for any number entered by the us
 - The program will print the multiplication table for the entered number.
 
 ### Example:
-Step1:
+### Step1:
 ```
 gcc -o main main.c
 ```
 
-Step2:
+### Step2:
 ```
 .\main.exe
 ```
+### Output:
 ![alt text](table-output.png)
 
 ### Requirements:
