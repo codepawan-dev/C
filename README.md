@@ -8,7 +8,7 @@ This program generates the multiplication table for any number entered by the us
 
 ## Usage:
 - Run the program.
-- Enter any integer then prompted.
+- Enter any integer when prompted.
 - The program will print the multiplication table for the entered number.
 
 ### Example:
