@@ -22,7 +22,10 @@ gcc -o main main.c
 .\main.exe
 ```
 ### Output:
-![alt text](table-output.png)
+![alt text](/Screenshots/table-output.png)
+![alt text](/Screenshots/out1.png)
+![alt text](/Screenshots/out2.png)
+![alt text](/Screenshots/out3.png)
 
 ### Requirements:
 - C compiler (like GCC or Turbo C).
