@@ -12,6 +12,7 @@ This program generates the multiplication table for any number entered by the us
 - The program will print the multiplication table for the entered number.
 
 ### Example:
+## For Windows
 ### Step1:
 ```
 gcc -o main main.c
@@ -21,6 +22,18 @@ gcc -o main main.c
 ```
 .\main.exe
 ```
+
+## For Linux/mac
+### Step1:
+```
+gcc -o main main.c
+```
+
+### Step2:
+```
+.\main
+```
+
 ### Output:
 ![alt text](Screenshots/out1.png)
 ![alt text](Screenshots/out2.png)
