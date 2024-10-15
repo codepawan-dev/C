@@ -4,7 +4,8 @@
 int main()
 {
     int n;
-    system("cls");
+    system("cls"); // for windows
+    // system("clear"); // for uninux based operating system 
     printf("Enter the number how many table you want: ");
     scanf("%d", &n);
     int mul[n];
